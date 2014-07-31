@@ -18,6 +18,8 @@ public class Lab1 {
     public static void main(String[] args) {
         System.out.println("hola ruben");
         System.out.println("adios ruben");
+        System.out.println("dmksmcfpemp egkp");
+        
         // TODO code application logic here
     }
     
